@@ -14,11 +14,9 @@
 - ⚡ Fun fact: I build things FAST 🚀
 
 ---
-## 📫 Connect with me:
+## 📫 Contact Me
 
-<a href="mailto:anshulsinghal2309@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- 📧 Email: anshulsinghal2309@gmail.com
 
 ## 🌐 Connect with me:
 <p align="left">
